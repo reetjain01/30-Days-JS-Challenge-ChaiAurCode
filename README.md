@@ -1,4 +1,5 @@
 # 30 Days JavaScript Challenge
+This is a repository for the 30 Days JavaScript Challenge by Chai Aur Code
 
 ## Day 1: Variables and Data Types
 
