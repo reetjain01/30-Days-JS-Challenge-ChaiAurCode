@@ -13,3 +13,6 @@ Learn about control structures in JavaScript, including if-else statements, swit
 
 ## Day 4: Loops
 Master looping constructs in JavaScript with for, while, and do-while loops. Understand nested loops and loop control statements like break and continue through practical exercises and examples.
+
+## Day 5: Functions
+Understand different types of functions in JavaScript, including function declarations, expressions, and arrow functions. Learn about function parameters, default values, and higher-order functions through various activities and examples.
