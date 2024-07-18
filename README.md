@@ -16,3 +16,6 @@ Master looping constructs in JavaScript with for, while, and do-while loops. Und
 
 ## Day 5: Functions
 Understand different types of functions in JavaScript, including function declarations, expressions, and arrow functions. Learn about function parameters, default values, and higher-order functions through various activities and examples.
+
+## Day 6: Arrays
+Dive into array manipulation and iteration in JavaScript. Learn how to create and access arrays, use basic and intermediate array methods, and work with multi-dimensional arrays. Explore practical examples and exercises to reinforce your understanding of array operations.
