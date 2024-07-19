@@ -19,3 +19,7 @@ Understand different types of functions in JavaScript, including function declar
 
 ## Day 6: Arrays
 Dive into array manipulation and iteration in JavaScript. Learn how to create and access arrays, use basic and intermediate array methods, and work with multi-dimensional arrays. Explore practical examples and exercises to reinforce your understanding of array operations.
+
+## Day 7: Objects
+Explore the fundamentals of objects in JavaScript. Learn how to create and access object properties, define and use object methods, work with nested objects, and leverage the this keyword. Understand object iteration techniques and practice with comprehensive exercises.
+
