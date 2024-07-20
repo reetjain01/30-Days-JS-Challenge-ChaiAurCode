@@ -23,3 +23,5 @@ Dive into array manipulation and iteration in JavaScript. Learn how to create an
 ## Day 7: Objects
 Explore the fundamentals of objects in JavaScript. Learn how to create and access object properties, define and use object methods, work with nested objects, and leverage the this keyword. Understand object iteration techniques and practice with comprehensive exercises.
 
+## Day 8: ES6+ Features
+Dive into the advanced features introduced in ES6 and beyond. This includes learning about template literals for string interpolation, destructuring arrays and objects for concise code, using spread and rest operators for flexible function arguments and array manipulation, understanding default parameters for functions, and leveraging enhanced object literals. Each activity provides practical examples to solidify your understanding.
