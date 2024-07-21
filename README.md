@@ -25,3 +25,7 @@ Explore the fundamentals of objects in JavaScript. Learn how to create and acces
 
 ## Day 8: ES6+ Features
 Dive into the advanced features introduced in ES6 and beyond. This includes learning about template literals for string interpolation, destructuring arrays and objects for concise code, using spread and rest operators for flexible function arguments and array manipulation, understanding default parameters for functions, and leveraging enhanced object literals. Each activity provides practical examples to solidify your understanding.
+
+
+## Day 9: DOM Manipulation
+Explore the power of JavaScript to dynamically interact with the Document Object Model (DOM). Learn how to select and manipulate elements, create and append new elements, remove elements, modify attributes and classes, and handle events. Each task demonstrates practical techniques for effective DOM manipulation, enhancing your ability to create interactive web pages.
