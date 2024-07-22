@@ -29,3 +29,6 @@ Dive into the advanced features introduced in ES6 and beyond. This includes lear
 
 ## Day 9: DOM Manipulation
 Explore the power of JavaScript to dynamically interact with the Document Object Model (DOM). Learn how to select and manipulate elements, create and append new elements, remove elements, modify attributes and classes, and handle events. Each task demonstrates practical techniques for effective DOM manipulation, enhancing your ability to create interactive web pages.
+
+## Day 10: Event Handling 
+Master various event handling techniques in JavaScript, including basic events, mouse events, keyboard events, form events, and event delegation. Learn to manipulate the DOM through event listeners and handlers to create interactive web pages.
