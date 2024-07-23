@@ -32,3 +32,6 @@ Explore the power of JavaScript to dynamically interact with the Document Object
 
 ## Day 10: Event Handling 
 Master various event handling techniques in JavaScript, including basic events, mouse events, keyboard events, form events, and event delegation. Learn to manipulate the DOM through event listeners and handlers to create interactive web pages.
+
+## Day 11: Promise and Async/Await
+Learn the fundamentals of asynchronous JavaScript with Promises and Async/Await. Understand how to create and handle promises, chain them, and manage errors. Explore the use of async functions and the power of fetching data from APIs. Gain proficiency in handling concurrent promises using Promise.all and Promise.race.
