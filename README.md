@@ -35,3 +35,6 @@ Master various event handling techniques in JavaScript, including basic events, 
 
 ## Day 11: Promise and Async/Await
 Learn the fundamentals of asynchronous JavaScript with Promises and Async/Await. Understand how to create and handle promises, chain them, and manage errors. Explore the use of async functions and the power of fetching data from APIs. Gain proficiency in handling concurrent promises using Promise.all and Promise.race.
+
+## Day 12: Error Handling
+Master error handling in JavaScript by using try-catch blocks, creating custom error objects, and working with the finally block. Learn to handle errors in promises and async/await functions gracefully. Practice fetching data from APIs and managing errors effectively to ensure robust and reliable code.
