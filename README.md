@@ -38,3 +38,7 @@ Learn the fundamentals of asynchronous JavaScript with Promises and Async/Await.
 
 ## Day 12: Error Handling
 Master error handling in JavaScript by using try-catch blocks, creating custom error objects, and working with the finally block. Learn to handle errors in promises and async/await functions gracefully. Practice fetching data from APIs and managing errors effectively to ensure robust and reliable code.
+
+## Day 13: Modules
+
+Explore the power of JavaScript modules by creating and exporting your own, using named and default exports, and importing entire modules. Learn to leverage third-party modules like Lodash and Axios to simplify tasks such as array operations and HTTP requests. Practice module bundling with tools like Webpack to optimize your codebase for production.
