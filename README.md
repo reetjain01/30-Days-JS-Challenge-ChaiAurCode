@@ -44,3 +44,6 @@ Explore the power of JavaScript modules by creating and exporting your own, usin
 
 ## Day 14: Classes
 Learn the power of object-oriented programming in JavaScript with classes. Understand how to define classes, create instances, and use methods and properties. Explore inheritance to extend classes and create hierarchical structures. Master static methods and properties for utility functions, and use getters and setters for encapsulation. Finally, discover private fields to safeguard class internals, ensuring robust and maintainable code.
+
+## Day 15: Closures
+Dive into closures in JavaScript and explore how they can be used to create private variables, maintain state, and generate unique identifiers. Understand practical applications such as creating counters, unique IDs, and managing tasks using the module pattern. Learn how closures can impact loops and be utilized for memoization to optimize performance by caching results of expensive function calls. This day will help you master the power of closures for effective and efficient coding.
