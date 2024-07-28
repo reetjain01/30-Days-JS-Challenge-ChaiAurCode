@@ -47,3 +47,6 @@ Learn the power of object-oriented programming in JavaScript with classes. Under
 
 ## Day 15: Closures
 Dive into closures in JavaScript and explore how they can be used to create private variables, maintain state, and generate unique identifiers. Understand practical applications such as creating counters, unique IDs, and managing tasks using the module pattern. Learn how closures can impact loops and be utilized for memoization to optimize performance by caching results of expensive function calls. This day will help you master the power of closures for effective and efficient coding.
+
+## Day 16: Recursion
+Master recursion in JavaScript with tasks like calculating factorials, generating Fibonacci sequences, and manipulating arrays and strings. Learn recursive solutions for finding maximum elements, reversing strings, and searching arrays. Understand recursion's power and pitfalls through practical exercises.
