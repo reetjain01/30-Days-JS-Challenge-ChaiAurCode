@@ -2,7 +2,6 @@
 This is a repository for the 30 Days JavaScript Challenge by Chai Aur Code
 
 ## Day 1: Variables and Data Types
-
 Explore the basics of JavaScript variables and data types, including variable declaration using var, let, and const, as well as understanding different data types and their usage in practical examples.
 
 ## Day 2: Operators
@@ -50,3 +49,6 @@ Dive into closures in JavaScript and explore how they can be used to create priv
 
 ## Day 16: Recursion
 Master recursion in JavaScript with tasks like calculating factorials, generating Fibonacci sequences, and manipulating arrays and strings. Learn recursive solutions for finding maximum elements, reversing strings, and searching arrays. Understand recursion's power and pitfalls through practical exercises.
+
+## Day 17: Data Structures
+Explore key data structures: manage nodes with Linked Lists, implement LIFO operations with Stacks, handle FIFO with Queues, and organize hierarchical data using Binary Trees. Practice adding, removing, and traversing elements to strengthen your data management skills.
