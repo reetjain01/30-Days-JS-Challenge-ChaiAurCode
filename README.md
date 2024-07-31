@@ -54,4 +54,7 @@ Master recursion in JavaScript with tasks like calculating factorials, generatin
 Explore key data structures: manage nodes with Linked Lists, implement LIFO operations with Stacks, handle FIFO with Queues, and organize hierarchical data using Binary Trees. Practice adding, removing, and traversing elements to strengthen your data management skills.
 
 ## Day 18: Algorithms
-Master key algorithms by diving into sorting with Bubble, Selection, and Quick Sort. Enhance your search skills with Linear and Binary Search. Explore string algorithms to count characters occurrences and find the longest substring without repeating characters. Optimize array manipulations with rotation and merging techniques to handle and process data effectively.
+Master key algorithms by diving into sorting with Bubble, Selection, and Quick Sort. Enhance your search skills with Linear and Binary Search. Explore string algorithms to count characters occurrences and find the longest substring without repeating characters. Optimize array manipulations with rotation and merging techniques to handle and process data effectively.  
+
+## Day 19: Regular Expressions
+Explore the power of Regular Expressions with a range of tasks. Learn basic patterns for matching specific text, digits, and character classes. Utilize quantifiers to handle varying amounts of text. Dive into grouping and capturing to extract parts of strings, such as phone numbers and email addresses. Understand assertions and boundaries for precise matches. Finally, apply these concepts to validate passwords and URLs, enhancing your ability to manage and validate data effectively.
