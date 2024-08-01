@@ -58,3 +58,6 @@ Master key algorithms by diving into sorting with Bubble, Selection, and Quick S
 
 ## Day 19: Regular Expressions
 Explore the power of Regular Expressions with a range of tasks. Learn basic patterns for matching specific text, digits, and character classes. Utilize quantifiers to handle varying amounts of text. Dive into grouping and capturing to extract parts of strings, such as phone numbers and email addresses. Understand assertions and boundaries for precise matches. Finally, apply these concepts to validate passwords and URLs, enhancing your ability to manage and validate data effectively.
+
+## Day 20: LocalStorage and SessionStorage
+Delve into web storage with LocalStorage and SessionStorage. Learn to store, retrieve, and manipulate data in both storages through various tasks. Understand how to handle JSON objects and update content dynamically. Compare LocalStorage and SessionStorage by saving and clearing data, and explore their differences in persistence and scope. This day will enhance your ability to manage client-side data efficiently.
