@@ -61,3 +61,6 @@ Explore the power of Regular Expressions with a range of tasks. Learn basic patt
 
 ## Day 20: LocalStorage and SessionStorage
 Delve into web storage with LocalStorage and SessionStorage. Learn to store, retrieve, and manipulate data in both storages through various tasks. Understand how to handle JSON objects and update content dynamically. Compare LocalStorage and SessionStorage by saving and clearing data, and explore their differences in persistence and scope. This day will enhance your ability to manage client-side data efficiently.
+
+## Day 21: Leetcode Easy Challenges
+Explore fundamental Leetcode problems with solutions that involve common data structures and algorithms. Tackle tasks like finding two numbers that sum up to a target, reversing an integer, checking for palindromes, merging two sorted linked lists, and validating parentheses. Through these exercises, enhance your problem-solving skills and familiarity with coding interviews.
