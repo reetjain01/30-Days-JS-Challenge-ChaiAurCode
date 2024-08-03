@@ -64,3 +64,6 @@ Delve into web storage with LocalStorage and SessionStorage. Learn to store, ret
 
 ## Day 21: Leetcode Easy Challenges
 Explore fundamental Leetcode problems with solutions that involve common data structures and algorithms. Tackle tasks like finding two numbers that sum up to a target, reversing an integer, checking for palindromes, merging two sorted linked lists, and validating parentheses. Through these exercises, enhance your problem-solving skills and familiarity with coding interviews.
+
+## Day 22: LeetCode Medium Challenges
+In this set of challenges, we've tackled several classic problems: adding two numbers represented by linked lists, finding the longest substring without repeating characters, calculating the maximum area of water between vertical lines, identifying unique triplets that sum to zero, and grouping anagrams. Each solution employs efficient algorithms and techniques to address these common coding problems
