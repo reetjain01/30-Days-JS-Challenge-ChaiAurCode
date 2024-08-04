@@ -67,3 +67,7 @@ Explore fundamental Leetcode problems with solutions that involve common data st
 
 ## Day 22: LeetCode Medium Challenges
 In this set of challenges, we've tackled several classic problems: adding two numbers represented by linked lists, finding the longest substring without repeating characters, calculating the maximum area of water between vertical lines, identifying unique triplets that sum to zero, and grouping anagrams. Each solution employs efficient algorithms and techniques to address these common coding problems
+
+## Day 23: LeetCode Hard Challenges
+In this session, we tackled several advanced problems: finding the median of two sorted arrays, merging multiple sorted lists into one, trapping rainwater using elevation data, solving the N-Queens problem, and finding the shortest transformation sequence from a start word to an end word. These solutions incorporate a variety of algorithms and data structures to efficiently handle complex scenarios and optimize performance.
+
