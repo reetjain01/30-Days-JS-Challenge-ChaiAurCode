@@ -73,3 +73,6 @@ In this session, we tackled several advanced problems: finding the median of two
 
 ## Day 24: Weather Application Development
 Today’s tasks focused on building a dynamic weather application that fetches and displays current weather conditions and a 5-day forecast. We used the WeatherAPI to gather data, which is then displayed on the page with real-time updates. The application also features an updating clock that shows the current time. Key functionalities include handling user input for city names, managing API responses, and dynamically updating the UI.
+
+Link : https://weatheerrapppp.netlify.app/
+
