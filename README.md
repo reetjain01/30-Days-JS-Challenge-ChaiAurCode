@@ -71,3 +71,5 @@ In this set of challenges, we've tackled several classic problems: adding two nu
 ## Day 23: LeetCode Hard Challenges
 In this session, we tackled several advanced problems: finding the median of two sorted arrays, merging multiple sorted lists into one, trapping rainwater using elevation data, solving the N-Queens problem, and finding the shortest transformation sequence from a start word to an end word. These solutions incorporate a variety of algorithms and data structures to efficiently handle complex scenarios and optimize performance.
 
+## Day 24: Weather Application Development
+Today’s tasks focused on building a dynamic weather application that fetches and displays current weather conditions and a 5-day forecast. We used the WeatherAPI to gather data, which is then displayed on the page with real-time updates. The application also features an updating clock that shows the current time. Key functionalities include handling user input for city names, managing API responses, and dynamically updating the UI.
